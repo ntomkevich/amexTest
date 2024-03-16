@@ -1,14 +1,4 @@
 import Link from "next/link";
-import {
-  Table,
-  Header,
-  HeaderRow,
-  Body,
-  Row,
-  HeaderCell,
-  Cell,
-} from "@table-library/react-table-library/table";
-// import * as Avatar from "@radix-ui/react-avatar";
 
 type Employee = {
   dob: {
